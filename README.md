@@ -1,6 +1,4 @@
-# Kaggle
-
-Solving Kaggle Problems
+#Solving Kaggle Problems
 -------------------------------------------
 
 ###Problem 1:Detect Keypoints on "Face Images":
