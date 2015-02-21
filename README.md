@@ -1,13 +1,11 @@
 # Kaggle
 Solving Kaggle Problems
-
-
-##Problem 1:Detect Keypoints on "Face Images":
 -------------------------------------------
+
+###Problem 1:Detect Keypoints on "Face Images":
 Problem Statement- 
 Given an image of a face, automatically locate where these keypoints are located.
-
-Mastered the kaggle intro:
+####Initial Steps:
 * Load Train and test data set to R.
 * Create R data frames for both data sets.
 * Reformat image column to a seperate data frame of 9216 (96*96) integer columns.
